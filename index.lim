@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="utf-8"?>
+<lim version="5.6.4">
+    <config>
+        <recursos>recursos</recursos>
+        <idioma>0</idioma>
+        <licencia></licencia>
+        <corfondo>ffffff</corfondo>
+        <cormensaxes>000000</cormensaxes>
+        <cortexto>000000</cortexto>
+        <titulo>POLÍGONOS</titulo>
+        <autor>Lic. Jiménez Cantillo</autor>
+        <logo>intro.png</logo>
+        <imaxefondo posx="106" posy="152" trans="100">empresario-confiado-traje_1308-174573.jpg</imaxefondo>
+        <informe>0</informe>
+        <botonson>0</botonson>
+        <maximizar>0</maximizar>
+        <desordenar>0</desordenar>
+        <correcto son="" modo="1" >CORRECTO</correcto>
+        <incorrecto son="" modo="1" >INCORRECTO</incorrecto>
+    </config>
+    <libro>
+        <paxina id="1" >
+              <tipo>2</tipo>
+              <imaxe auto="1"  posx="0" posy="-7">1.png</imaxe>
+        </paxina>
+        <paxina id="2" >
+              <tipo>2</tipo>
+              <imaxe auto="1"  posx="0" posy="-7">2.png</imaxe>
+        </paxina>
+        <paxina id="3" >
+              <tipo>2</tipo>
+              <imaxe auto="1"  posx="0" posy="-7">3.png</imaxe>
+        </paxina>
+        <paxina id="4" >
+              <tipo>2</tipo>
+              <imaxe auto="1"  posx="0" posy="-7">4.png</imaxe>
+        </paxina>
+        <paxina id="5" >
+              <tipo>2</tipo>
+              <imaxe auto="1"  posx="0" posy="-7">5.png</imaxe>
+        </paxina>
+        <paxina id="6" >
+              <tipo>2</tipo>
+              <imaxe auto="1"  posx="0" posy="-7">6.png</imaxe>
+        </paxina>
+        <paxina id="7" >
+              <tipo>28</tipo>
+              <boton texto="PRESIONA AQUÍ">https://www.liveworksheets.com/es/c?a=s&amp;t=UGrR3ydcu3&amp;sr=n&amp;l=ne&amp;i=dcoftt&amp;r=yd&amp;f=dzdxztus&amp;ms=uz&amp;cd=p--s-0inkx0llrnkjezzinngnmgzxpxg&amp;mw=hs</boton>
+        </paxina>
+        <paxina id="8" >
+              <tipo>2</tipo>
+              <imaxe auto="1"  posx="0" posy="-7">7.png</imaxe>
+        </paxina>
+        <paxina id="9" >
+              <tipo>2</tipo>
+              <imaxe auto="1"  posx="0" posy="-7">8.png</imaxe>
+        </paxina>
+        <paxina id="10" >
+              <tipo>2</tipo>
+              <imaxe auto="1"  posx="0" posy="-7">9.png</imaxe>
+        </paxina>
+        <paxina id="11" >
+              <tipo>2</tipo>
+              <texto posx="0" posy="-2" ancho="596" largo="350"><![CDATA[<font size="12"><iframe allow="fullscreen; autoplay; allow-top-navigation-by-user-activation" allowfullscreen width="795" height="690" frameborder="0" src="https://es.educaplay.com/juego/6643358-perimetro_de_poligonos.html"></iframe></font>]]></texto>
+              <ctexto>000000</ctexto>
+              <chtml>1</chtml>
+        </paxina>
+        <paxina id="12" >
+              <tipo>2</tipo>
+              <imaxe auto="1"  posx="0" posy="-7">10.png</imaxe>
+        </paxina>
+        <paxina id="13" >
+              <tipo>2</tipo>
+              <texto posx="0" posy="0" ancho="595" largo="348"><![CDATA[<font size="12"><iframe width="560" height="315" src="https://www.youtube.com/embed/gFge7ZMxtKc?si=gyT4EUSMRgQLwnCw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe></font>]]></texto>
+              <ctexto>000000</ctexto>
+              <chtml>1</chtml>
+        </paxina>
+        <paxina id="14" >
+              <tipo>2</tipo>
+              <imaxe auto="1"  posx="0" posy="-7">11.png</imaxe>
+        </paxina>
+    </libro>
+</lim>
